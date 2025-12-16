@@ -1,1 +1,7 @@
-abc
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-multipart
+jinja2
+
